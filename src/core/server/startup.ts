@@ -8,5 +8,6 @@ function handlePlayerConnect(player: alt.Player) {
 
     player.model = 'u_m_y_abner';
     player.spawn(36.19486618041992, 859.3850708007812, 197.71343994140625, 0);
+    chat.success(`Bạn đã truy cập máy chủ GTA:V Multiplayer thành công, good luck!`);
     alt.emitClient(player, 'log:Console', 'alt:V Server - #1');
 }
