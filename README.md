@@ -14,14 +14,3 @@
     <a href="https://vitejs.dev" target="__blank"><img src="https://img.shields.io/badge/Using-Vite-cyan.svg?label=" alt="Using Vite"></a>
     <a href="https://mongodb.com/" target="__blank"><img src="https://img.shields.io/badge/Using-MongoDB-green.svg?label=" alt="MongoDB"></a>
 </p>
-
-<br />
-
-## Important Links
-
-* [Documentation](https://docs.athenaframework.com)
-
-* [Issues](https://github.com/stuyk/altv-athena-issues)
-
-* [alt:V Client](https://altv.mp)
-
